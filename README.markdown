@@ -91,11 +91,12 @@ In advance, thank you!
 - website: https://shinmera.com/
 - donate:
   - github sponsors: https://github.com/sponsors/Shinmera
+  - ko-fi: https://ko-fi.com/shinmera
 - projects:
-  - Radiance: https://github.com/sponsors/Shinmera
-  - Qtools: https://github.com/Shinmera/qtools
+  - Qtools: https://shinmera.github.io/qtools
   - Trial: https://github.com/Shirakumo/trial
-  - Kandria: https://github.com/Shinmera/kandria
+  - Kandria: https://kandria.com
+  - Portacle: https://portacle.github.io
   - and many others
 
 ## svetlyak40wt, 40ants - Alexander Artemenko
