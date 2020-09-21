@@ -27,7 +27,6 @@ In advance, thank you!
 ## froggey
 
 - github: https://github.com/froggey/
-- twitter: https://twitter.com/HexstreamSoft
 - donate:
   - github sponsors: https://github.com/sponsors/froggey
   - patreon: https://patreon.com/froggey
