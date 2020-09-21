@@ -68,10 +68,11 @@ In advance, thank you!
 ## mfiano - Michael Fiano
 
 - github: https://github.com/mfiano
-- donate: https://github.com/bufferswap/ViralityEngine
+- donate: https://github.com/sponsors/mfiano
 - projects:
-  - Virality game engine: https://github.com/bufferswap/ViralityEngine
-  - pngload: https://github.com/bufferswap/ViralityEngine
+  - Virality Engine: https://github.com/bufferswap/ViralityEngine
+  - Pyx: https://github.com/mfiano/pyx
+  - pngload: https://github.com/bufferswap/pngload
 
 ## phoe - Michał "phoe" Herda
 
