@@ -79,7 +79,7 @@ In advance, thank you!
 - website: https://phoe.github.io/
 - mastodon: https://functional.cafe/@phoe/
 - donate:
-  - github sponsors: https://functional.cafe/@phoe/
+  - github sponsors: https://github.com/sponsors/phoe
 - projects:
   - book: the Common Lisp Condition System: https://www.apress.com/us/book/9781484261330
   - Portable Condition System: https://github.com/phoe/portable-condition-system
