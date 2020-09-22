@@ -119,6 +119,7 @@ In advance, thank you!
 - github: https://github.com/vindarel/
 - blog: https://lisp-journey.gitlab.io/
 - donate:
+  - ko-fi https://ko-fi.com/vindarel
   - patreon: https://www.patreon.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
   - IBAN: fr29 2004 1010 1612 7397 3V03 790
