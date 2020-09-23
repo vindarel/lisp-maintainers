@@ -137,7 +137,3 @@ In advance, thank you!
 - projects:
   - Quicklisp: https://github.com/quicklisp/
   - Buildapp: https://github.com/xach/buildapp
-
-# See also
-
-- https://common-lispers.hexstreamsoft.com/
