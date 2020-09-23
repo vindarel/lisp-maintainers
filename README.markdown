@@ -46,7 +46,7 @@ In advance, thank you!
 
 - github: https://github.com/dkochmanski
   - gitlab: https://gitlab.com/jackdaniel
-- website: https://github.com/McCLIM/McCLIM/
+- website: https://turtleware.eu/
 - mastodon: https://mastodon.social/@jackdaniel
 - donate:
   - patreon: https://www.patreon.com/jackdaniel%5Fkochmanski
