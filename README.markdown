@@ -127,7 +127,7 @@ In advance, thank you!
   - The Common Lisp Cookbook: https://github.com/LispCookbook/cl-cookbook/
   - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
-  - ABStock: https://github.com/vindarel/ABStock
+  - web templates: https://github.com/vindarel/lisp-web-template-productlist
 
 ## xach - Zach Beane
 
