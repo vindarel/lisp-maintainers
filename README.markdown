@@ -5,7 +5,7 @@ Sorted alphabetically by github handle. The authors' projects list is not exhaus
 In advance, thank you!
 
 
-## ambrevar - Pierre Neidhart
+## ambrevar - Pierre Neidhardt
 
 - github: https://github.com/ambrevar
 - website: https://ambrevar.xyz/
