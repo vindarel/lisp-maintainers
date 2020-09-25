@@ -137,3 +137,12 @@ In advance, thank you!
 - projects:
   - Quicklisp: https://github.com/quicklisp/
   - Buildapp: https://github.com/xach/buildapp
+
+# Supporting Lisp vendors
+
+You can ask for commercial support and services for the following implementations:
+
+- ABCL: https://abcl.org/commercial-support.shtml
+- AllegroCL: https://franz.com/
+- ECL: https://common-lisp.net/project/ecl/main.html
+- LispWorks: http://www.lispworks.com/support/description.html
