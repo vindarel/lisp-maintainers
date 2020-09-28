@@ -146,3 +146,7 @@ You can ask for commercial support and services for the following implementation
 - AllegroCL: https://franz.com/
 - ECL: https://common-lisp.net/project/ecl/main.html
 - LispWorks: http://www.lispworks.com/support/description.html
+
+# License
+
+WTF public license.
