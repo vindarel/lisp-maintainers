@@ -147,6 +147,7 @@ In advance, thank you!
   - common-lisp-jupyter: https://github.com/yitzchak/common-lisp-jupyter
   - cl-indentify: https://github.com/yitzchak/cl-indentify/
   - trivial-do: https://github.com/yitzchak/trivial-do/
+  - shasht, JSON library: https://github.com/yitzchak/shasht
 
 # Supporting Lisp vendors
 
