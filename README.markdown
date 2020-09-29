@@ -114,6 +114,17 @@ In advance, thank you!
   - cl-prevalence: https://github.com/40ants/cl-prevalence
   - and many others
 
+## tshatrov
+
+- github: https://github.com/tshatrov
+- blog: https://readevalprint.tumblr.com/
+- donate:
+  - patreon: https://www.patreon.com/ichimoe
+- projects:
+  - Ichiran, linguistic tools for texts in Japanese: https://github.com/tshatrov/ichiran/
+  - webgunk: https://github.com/tshatrov/webgunk
+  - match-client: https://github.com/tshatrov/match-client
+
 ## vindarel - Vincent Dardel
 
 - github: https://github.com/vindarel/
