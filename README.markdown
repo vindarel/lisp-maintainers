@@ -138,6 +138,16 @@ In advance, thank you!
   - Quicklisp: https://github.com/quicklisp/
   - Buildapp: https://github.com/xach/buildapp
 
+## yitzchak - Tarn Burton
+
+- github: https://github.com/yitzchak
+- donate:
+  - https://github.com/sponsors/yitzchak
+- projects:
+  - common-lisp-jupyter: https://github.com/yitzchak/common-lisp-jupyter
+  - cl-indentify: https://github.com/yitzchak/cl-indentify/
+  - trivial-do: https://github.com/yitzchak/trivial-do/
+
 # Supporting Lisp vendors
 
 You can ask for commercial support and services for the following implementations:
