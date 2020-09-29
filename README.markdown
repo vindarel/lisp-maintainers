@@ -138,7 +138,7 @@ In advance, thank you!
   - Quicklisp: https://github.com/quicklisp/
   - Buildapp: https://github.com/xach/buildapp
 
-## yitzchak - Tarn Burton
+## yitzchak - Tarn W. Burton
 
 - github: https://github.com/yitzchak
 - donate:
