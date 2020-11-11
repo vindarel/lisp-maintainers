@@ -130,6 +130,7 @@ In advance, thank you!
 - github: https://github.com/vindarel/
 - blog: https://lisp-journey.gitlab.io/
 - donate:
+  - github sponsors: https://github.com/sponsors/vindarel
   - ko-fi https://ko-fi.com/vindarel
   - patreon: https://www.patreon.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
