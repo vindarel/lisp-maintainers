@@ -134,12 +134,13 @@ In advance, thank you!
   - ko-fi https://ko-fi.com/vindarel
   - patreon: https://www.patreon.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
+  - paypal: vincezd@gmail.com
   - IBAN: fr29 2004 1010 1612 7397 3V03 790
 - projects:
   - The Common Lisp Cookbook: https://github.com/LispCookbook/cl-cookbook/
   - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
-  - web templates: https://github.com/vindarel/lisp-web-template-productlist
+  - ABStock: https://github.com/vindarel/abstock
 
 ## xach - Zach Beane
 
