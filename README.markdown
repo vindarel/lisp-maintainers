@@ -132,7 +132,6 @@ In advance, thank you!
 - donate:
   - github sponsors: https://github.com/sponsors/vindarel
   - ko-fi https://ko-fi.com/vindarel
-  - patreon: https://www.patreon.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
   - paypal: vincezd@gmail.com
   - IBAN: fr29 2004 1010 1612 7397 3V03 790
