@@ -33,6 +33,16 @@ In advance, thank you!
 - projects:
   - Mezzano: https://github.com/froggey/Mezzano
 
+## fukamachi - Eitaro Fukamachi
+
+- github: https://github.com/fukamachi/
+- donate:
+  - github sponsors: https://github.com/sponsors/fukamachi
+- projects:
+  - [Clack](https://github.com/fukamachi/clack): a web server application layer.
+  - [Mito](https://github.com/fukamachi/mito): An ORM with schema versioning and PostgreSQL support
+  - [Qlot](https://github.com/fukamachi/qlot), Dexador, Caveman web framework…
+
 ## hexstreamsoft - Jean-Philippe Paradis
 
 - github: https://github.com/Hexstream
