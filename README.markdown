@@ -4,6 +4,17 @@ Sorted alphabetically by github handle. The authors' projects list is not exhaus
 
 In advance, thank you!
 
+## Alex Gutev
+
+- github: https://github.com/alex-gutev/
+- website: https://alex-gutev.github.io/
+- donate:
+  - github sponsors: https://github.com/sponsors/alex-gutev
+  - patreon: https://patreon.com/alexgutev
+- projects:
+  - generic-cl: https://github.com/alex-gutev/generic-cl/
+  - static dispatch: https://github.com/alex-gutev/static-dispatch
+  - Tridash (WIP): http://github.com/alex-gutev/tridash
 
 ## ambrevar - Pierre Neidhardt
 
