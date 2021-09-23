@@ -120,6 +120,14 @@ In advance, thank you!
   - Portacle: https://portacle.github.io
   - and many others
 
+## Stas Boukarev (SBCL developer)
+
+- github: https://github.com/stassats/
+- donate:
+  - patreon: https://www.patreon.com/stassats/
+- projects:
+  - the SBCL implementation.
+
 ## svetlyak40wt, 40ants - Alexander Artemenko
 
 - github:
