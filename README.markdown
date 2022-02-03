@@ -157,18 +157,19 @@ In advance, thank you!
 ## vindarel - Vincent Dardel
 
 - github: https://github.com/vindarel/
-- blog: https://lisp-journey.gitlab.io/
+- websites:
+   - blog: https://lisp-journey.gitlab.io/
+  - [Common Lisp Programming course](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358)
 - donate:
   - github sponsors: https://github.com/sponsors/vindarel
   - ko-fi https://ko-fi.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
-  - paypal: vincezd@gmail.com
-  - IBAN: fr29 2004 1010 1612 7397 3V03 790
+  - paypal: vincezd at gmail.com
 - projects:
   - The Common Lisp Cookbook: https://github.com/LispCookbook/cl-cookbook/
   - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
-  - ABStock: https://github.com/vindarel/abstock
+  - OpenBookStore: https://github.com/OpenBookStore/openbookstore
 
 ## xach - Zach Beane
 
