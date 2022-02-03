@@ -94,6 +94,14 @@ In advance, thank you!
   - Pyx: https://github.com/mfiano/pyx
   - pngload: https://github.com/bufferswap/pngload
 
+## phantomics - Andrew Sengul
+
+- github: https://github.com/phantomics/
+- donate:
+  - patreon: https://www.patreon.com/lisp
+- projects:
+  - April: https://github.com/phantomics/april "The APL programming language (a subset thereof) compiling to Common Lisp."
+
 ## phoe - Michał "phoe" Herda
 
 - github: https://github.com/phoe
