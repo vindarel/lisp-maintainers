@@ -167,17 +167,17 @@ In advance, thank you!
 - github: https://github.com/vindarel/
 - websites:
    - blog: https://lisp-journey.gitlab.io/
-  - [Common Lisp Programming course](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358)
+  - 🎥 [Common Lisp Programming video course on Udemy](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358)
 - donate:
   - github sponsors: https://github.com/sponsors/vindarel
   - ko-fi https://ko-fi.com/vindarel
   - liberapay: https://liberapay.com/vindarel/
-  - paypal: vincezd at gmail.com
+  - paypal: vindarel at mailz dot org
 - projects:
   - The Common Lisp Cookbook: https://github.com/LispCookbook/cl-cookbook/
   - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
-  - OpenBookStore: https://github.com/OpenBookStore/openbookstore
+  - CIEL: https://github.com/ciel-lang/CIEL/
 
 ## xach - Zach Beane
 
