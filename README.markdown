@@ -131,10 +131,9 @@ In advance, thank you!
 ## Stas Boukarev (SBCL developer)
 
 - github: https://github.com/stassats/
-- donate:
-  - patreon: https://www.patreon.com/stassats/
 - projects:
   - the SBCL implementation.
+- donate: not possible anymore at this time (he had to stop his patreon).
 
 ## svetlyak40wt, 40ants - Alexander Artemenko
 
