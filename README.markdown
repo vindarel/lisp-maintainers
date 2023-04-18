@@ -35,6 +35,16 @@ In advance, thank you!
   - cl-lsp: https://github.com/cxxxr/cl-lsp
   - valtan: https://github.com/cxxxr/valtan
 
+## dnaeon - Marin Atanasov Nikolov
+
+- github: https://github.com/dnaeon
+- donate:
+  - github sponsors: https://github.com/sponsors/dnaeon
+- projects:
+  - clingon: https://github.com/dnaeon/clingon
+  - cl-migratum: https://github.com/dnaeon/cl-migratum
+  - cl-covid19: https://github.com/dnaeon/cl-covid19
+
 ## froggey
 
 - github: https://github.com/froggey/
