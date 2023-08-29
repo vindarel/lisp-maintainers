@@ -189,6 +189,7 @@ In advance, thank you!
   - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
   - CIEL: https://github.com/ciel-lang/CIEL/
+  - and others: OpenBookStore, cl-cookie-project starter kit, lem/legit…
 
 ## xach - Zach Beane
 
