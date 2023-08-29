@@ -128,17 +128,21 @@ In advance, thank you!
 
 ## shinmera - Nicolas Hafner
 
+Read: [Why make a Patreon now?](https://reader.tymoon.eu/article/432)
+
 - github: https://github.com/Shinmera
 - website: https://shinmera.com/
 - donate:
   - github sponsors: https://github.com/sponsors/Shinmera
+  - patreon: https://www.patreon.com/Shinmera
   - ko-fi: https://ko-fi.com/shinmera
 - projects:
-  - Qtools: https://shinmera.github.io/qtools
-  - Trial: https://github.com/Shirakumo/trial
+  - Trial game engine: https://github.com/Shirakumo/trial
   - Kandria: https://kandria.com
-  - Portacle: https://portacle.github.io
-  - and many others
+  - Portacle IDE: https://portacle.github.io
+  - and many others: lquery, plump, clss, Qtools, deploy, parachute, staple, mmap, file-notify, file-utils, trivial-arguments, Courier…
+  - is involved in CL infrastructure.
+
 
 ## Stas Boukarev (SBCL developer)
 
