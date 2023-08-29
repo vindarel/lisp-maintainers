@@ -24,6 +24,7 @@ In advance, thank you!
   - liberapay: https://liberapay.com/Ambrevar/donate
 - projects:
   - Nyxt browser: https://github.com/atlas-engineer/nyxt
+    - note: the Nyxt team is receiving a grant.
 
 ## cxxxr
 
@@ -94,6 +95,7 @@ In advance, thank you!
   - patreon: https://www.patreon.com/nyxt
 - projects:
   - Nyxt browser: https://github.com/atlas-engineer/nyxt
+    - note: the Nyxt team is receiving a grant.
 
 ## mfiano - Michael Fiano
 
