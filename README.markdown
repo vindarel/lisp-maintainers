@@ -219,6 +219,9 @@ Read: [Why make a Patreon now?](https://reader.tymoon.eu/article/432)
 You can ask for commercial support and services for the following implementations:
 
 - ABCL: https://abcl.org/commercial-support.shtml
+  - Alejandro Zamora Fonseca, author of [abcl-memory-compiler](https://gitlab.com/cl-projects/abcl-memory-compiler) or the ABCL stepper
+  - "I'm offering consulting and development services tailored to help you get the most out of ABCL on the JVM. Whether you need custom development, integration, performance optimization, or training, I’m here to support your project."
+  - contact: allejjandrozf@gmail.com
 - AllegroCL: https://franz.com/
 - ECL: https://common-lisp.net/project/ecl/main.html
 - LispWorks: http://www.lispworks.com/support/description.html
