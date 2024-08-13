@@ -190,10 +190,9 @@ Read: [Why make a Patreon now?](https://reader.tymoon.eu/article/432)
   - paypal: vindarel at mailz dot org
 - projects:
   - The Common Lisp Cookbook: https://github.com/LispCookbook/cl-cookbook/
-  - Awesome-CL: https://github.com/CodyReichert/awesome-cl
   - cl-str: https://github.com/vindarel/cl-str/
   - CIEL: https://github.com/ciel-lang/CIEL/
-  - and others: OpenBookStore, cl-cookie-project starter kit, lem/legit…
+  - and others: [Lem editor's Git plugin](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/), [OpenBookStore](https://github.com/OpenBookStore/openbookstore), [cl-cookie-project starter kit](https://github.com/vindarel/cl-cookieproject), [awesome-cl](https://github.com/CodyReichert/awesome-cl)…
 
 ## xach - Zach Beane
 
