@@ -16,16 +16,6 @@ In advance, thank you!
   - static dispatch: https://github.com/alex-gutev/static-dispatch
   - Tridash (WIP): http://github.com/alex-gutev/tridash
 
-## ambrevar - Pierre Neidhardt
-
-- github: https://github.com/ambrevar
-- website: https://ambrevar.xyz/
-- donate:
-  - liberapay: https://liberapay.com/Ambrevar/donate
-- projects:
-  - Nyxt browser: https://github.com/atlas-engineer/nyxt
-    - note: the Nyxt team is receiving a grant.
-
 ## cxxxr
 
 - github: https://github.com/cxxxr/
@@ -87,15 +77,6 @@ In advance, thank you!
   - McCLIM: https://github.com/McCLIM/McCLIM/
   - charming-clim: https://github.com/dkochmanski/charming-clim
 
-## jmercouris - John Mercouris
-
-- github: https://github.com/jmercouris
-- website: http://john.mercouris.online/
-- donate:
-  - patreon: https://www.patreon.com/nyxt
-- projects:
-  - Nyxt browser: https://github.com/atlas-engineer/nyxt
-    - note: the Nyxt team is receiving a grant.
 
 ## mfiano - Michael Fiano
 
