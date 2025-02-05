@@ -45,11 +45,12 @@ In advance, thank you!
 - projects:
   - Mezzano: https://github.com/froggey/Mezzano
 
-## fukamachi - Eitaro Fukamachi
+## fukamachi - Eitaro Fukamachi (stopped GitHub sponsors on Jan, 2025)
 
 - github: https://github.com/fukamachi/
 - donate:
-  - github sponsors: https://github.com/sponsors/fukamachi
+  - github sponsors: stopped as of January, 2025
+  - "I’ve recently resolved my financial challenges after switching jobs"
 - projects:
   - [Clack](https://github.com/fukamachi/clack): a web server application layer.
   - [Mito](https://github.com/fukamachi/mito): An ORM with schema versioning and PostgreSQL support
