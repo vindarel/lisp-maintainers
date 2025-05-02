@@ -73,6 +73,7 @@ In advance, thank you!
 - mastodon: https://mastodon.social/@jackdaniel
 - donate:
   - patreon: https://www.patreon.com/jackdaniel%5Fkochmanski
+  - liberapay: https://liberapay.com/jackdaniel/
 - projects:
   - ECL: https://gitlab.common-lisp.net/ecl/ecl
   - McCLIM: https://github.com/McCLIM/McCLIM/
